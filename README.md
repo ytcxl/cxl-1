@@ -1,4 +1,4 @@
-## v2ray-heroku
+## cxl-1
 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/ytcxl/cxl-1.git)
 
 ### heroku上部署v2ray
